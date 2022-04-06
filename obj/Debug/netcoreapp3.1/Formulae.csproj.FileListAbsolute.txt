@@ -1,0 +1,13 @@
+D:\DcodeTech Projects\Formulae\Formulae\bin\Debug\netcoreapp3.1\Formulae.exe
+D:\DcodeTech Projects\Formulae\Formulae\bin\Debug\netcoreapp3.1\Formulae.deps.json
+D:\DcodeTech Projects\Formulae\Formulae\bin\Debug\netcoreapp3.1\Formulae.runtimeconfig.json
+D:\DcodeTech Projects\Formulae\Formulae\bin\Debug\netcoreapp3.1\Formulae.runtimeconfig.dev.json
+D:\DcodeTech Projects\Formulae\Formulae\bin\Debug\netcoreapp3.1\Formulae.dll
+D:\DcodeTech Projects\Formulae\Formulae\bin\Debug\netcoreapp3.1\Formulae.pdb
+D:\DcodeTech Projects\Formulae\Formulae\obj\Debug\netcoreapp3.1\Formulae.GeneratedMSBuildEditorConfig.editorconfig
+D:\DcodeTech Projects\Formulae\Formulae\obj\Debug\netcoreapp3.1\Formulae.AssemblyInfoInputs.cache
+D:\DcodeTech Projects\Formulae\Formulae\obj\Debug\netcoreapp3.1\Formulae.AssemblyInfo.cs
+D:\DcodeTech Projects\Formulae\Formulae\obj\Debug\netcoreapp3.1\Formulae.csproj.CoreCompileInputs.cache
+D:\DcodeTech Projects\Formulae\Formulae\obj\Debug\netcoreapp3.1\Formulae.dll
+D:\DcodeTech Projects\Formulae\Formulae\obj\Debug\netcoreapp3.1\Formulae.pdb
+D:\DcodeTech Projects\Formulae\Formulae\obj\Debug\netcoreapp3.1\Formulae.genruntimeconfig.cache
